@@ -1,0 +1,7 @@
+# ninja log v5
+11	79	7009375843653246	CMakeFiles/Coada.dir/TestScurt.cpp.obj	fe1e80c9b67d32dd
+6	161	7009375844473420	CMakeFiles/Coada.dir/TestExtins.cpp.obj	f716fc0e1b0fd7ed
+0	315	7009375846023307	CMakeFiles/Coada.dir/App.cpp.obj	8add42c82f6a31b2
+3	346	7009423409854598	CMakeFiles/Coada.dir/App.cpp.obj	8add42c82f6a31b2
+8	347	7009423409864703	CMakeFiles/Coada.dir/Coada.cpp.obj	d50bb96acdff24c0
+347	461	7009423410980668	Coada.exe	e48cbcb9632a0c4b
