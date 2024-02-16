@@ -1,0 +1,3 @@
+C:/GEORGE/SDA/Lab3_Multidictionar/cmake-build-debug/CMakeFiles/Lab3_Multidictionar_George.dir
+C:/GEORGE/SDA/Lab3_Multidictionar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GEORGE/SDA/Lab3_Multidictionar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
